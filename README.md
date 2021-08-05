@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ThomasStilp
+- 👀 I’m interested in ...
+Baseball, Baseketball, photography, boats, and New York
+- 🌱 I’m currently learning ...
+A lot ;)
+- 💞️ I’m looking to collaborate on ...
+Nothing right now!
+- 📫 How to reach me ...
+My email is thomascstilp@gmail.com, but if you want to talk with me on Discord, its TornFoundYou#1111
+<!---
+ThomasStilp/ThomasStilp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
